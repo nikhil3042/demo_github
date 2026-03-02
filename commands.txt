@@ -7,3 +7,5 @@ git add <filename>
 git add <filename> <filename> <filename>
 git add .
 git commit -m "<commit_message>"
+git log
+git log --oneline
