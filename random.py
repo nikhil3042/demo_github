@@ -1,0 +1,1 @@
+print("India is into the semi finals")
